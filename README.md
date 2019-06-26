@@ -6,4 +6,7 @@
 
 
 ## How to install and use.
+> **This is not for beginners! If you are a beginner, I advise you to look elsewhere on getting started with a Discord bot.**
+
 ---
+##### DiscordRT - Made by Mr. Vodka

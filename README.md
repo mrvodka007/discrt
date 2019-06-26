@@ -14,11 +14,11 @@
 4. Find the executable in **"bin\x86"** and run the application. _(ignore all errors if any and close or wait for the program to end)
 5. Find the _config_ folder in **"bin\x86\Release"** and open it. 
 6. Modify the **settings.json** file and add your Discord Application API credentials _(Token)_, your desired command prefix and a password **(This is used for authenticating yourself with the bot in chat)**.
-
-
-
-5. Allow it to connect to the Internet *(in case of a firewall alert)*
-6. Close the application a
+7. Relaunch the program and wait for it to connect to Discord.
+8. Allow it to connect to the Internet *(in case of a firewall alert)*
+9. Once it connects to Discord, go to your Discord Dev Portal and get the client ID.
+10. Replace the client ID in this URL and open it in your browser to add the bot to your server. 
+`https://discordapp.com/oauth2/authorize?client_id=CLIENT_ID_HERE&scope=bot&permissions=8`
 
 ---
 ##### DiscordRT - Made by Mr. Vodka

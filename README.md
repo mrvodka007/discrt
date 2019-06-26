@@ -9,6 +9,7 @@
 > **This is not for beginners! If you are a beginner, I advise you to look elsewhere on getting started with a Discord bot.**
 #### This application only runs on *Windows with .NET Framework 4.7 or higher!*
 1. Download or clone this repository to your PC and open it with File Explorer.
+2. Open *DiscordRT.csproj* or *DiscordRT.sln* __(Preferably with Visual Studio 2019)__
 
 ---
 ##### DiscordRT - Made by Mr. Vodka

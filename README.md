@@ -22,6 +22,8 @@
 
 ### You have successfully installed DiscRT on your server. Happy Admin-ing? - _Oh and happy Discord Hack Week!_
 
+![Discord Hack Week](https://raw.githubusercontent.com/mrvodka007/discrt/master/Bot_Resources_Web/hack_badge_black.png "Discord")
+
 # Commands
 | Command       | Function      | Need Auth? |
 | ------------- |:-------------:| -----:|

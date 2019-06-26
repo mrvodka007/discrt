@@ -1,0 +1,5 @@
+{
+  "token": "YOUR-DISCORD-TOKEN",
+  "cmdPrefix": "!rt_",
+  "passKey": "{your-passkey-here}"
+}

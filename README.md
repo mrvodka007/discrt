@@ -8,7 +8,7 @@
 ## How to install and use.
 > **This is not for beginners! If you are a beginner, I advise you to look elsewhere on getting started with a Discord bot.**
 #### This application only runs on *Windows with .NET Framework 4.7 or higher!*
-1. Download or clone this repository to your PC and open it with File Explorer.
+1. Download or clone this repository to your PC and open it with File Explorer. __YOU WILL NEED TO EXTRACT *packages.zip* because Github was being stupid not allowing the folder to be uploaded via Web or Desktop app.__
 2. Open *DiscordRT.csproj* or *DiscordRT.sln* __(Preferably with Visual Studio 2019)__
 3. Make any modifications you desire *(if any at all :)* and compile! __(Make sure it is in *release* not *debug* and set to x86)__
 4. Find the executable in **"bin\x86"** and run the application. _(ignore all errors if any and close or wait for the program to end)_

@@ -22,5 +22,22 @@
 
 ### You have successfully installed DiscRT on your server. Happy Admin-ing? - _Oh and happy Discord Hack Week!_
 
+# Commands
+| Command       | Function      | Need Auth? |
+| ------------- |:-------------:| -----:|
+| !rt_help      | Shows help | No |
+| !rt_authme {password}     | Allows you to execute remote cmds    |   No |
+| !rt_deauthme | Disallows you to execute remote cmds  |    Yes |
+| !rt_cmd {command} | Executes the CMD command on remote PC | Yes |
+| !rt_pwsh {command} | Executes the PowerShell command on remote PC | Yes |
+| !rt_screencap | Takes a screenshot of remote PC and sends it in chat | Yes |
+| !rt_shutdown {time} | Shuts down the remote PC after specified or default time | Yes |
+| !rt_restart {time~ | Restarts the remote PC after specified or default time | Yes |
+| !rt_talkshit | Quite self explanatory | No |
+| !rt_nerdmode | Don't try it, everything is binary | No |
+| !rt_blacklist {userid} | Bans the user from using any commands (non removable, only by cfg) | Yes |
+| !rt_hello | the bot says hello message | No |
+| !rt_abort | Will get you an abortion. (jk it will cancel the shutdown / restart operation) | No |
+
 ---
 ##### DiscordRT - Made by Mr. Vodka

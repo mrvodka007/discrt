@@ -5,3 +5,5 @@
 ### DiscRT is an open source remote administration tool for Discord Bot Servers, it allows remote control over a PC through the Discord interface powered by Discord.NET Framework.
 
 
+## How to install and use.
+---

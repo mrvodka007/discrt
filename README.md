@@ -20,5 +20,7 @@
 10. Replace the client ID in this URL and open it in your browser to add the bot to your server. 
 `https://discordapp.com/oauth2/authorize?client_id=CLIENT_ID_HERE&scope=bot&permissions=8`
 
+### You have successfully installed DiscRT on your server. Happy Admin-ing? - _Oh and happy Discord Hack Week!_
+
 ---
 ##### DiscordRT - Made by Mr. Vodka

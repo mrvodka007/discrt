@@ -1,4 +1,4 @@
-<h1 align="center">DiscordRT - Remote Administration Tool</h1>
+DiscordRT - Remote Administration Tool
 
 ##### Discord Remote Administration Tool / Bot. Allows you to remotely control Windows PC shell and basic functions via Discord. 
 
